@@ -1,6 +1,6 @@
 scans list of URLs and automatically detects site’s technology—PHP, ASP.NET, Ruby on Rails, Java, JavaScript (and more)
 
-![Screenshot](/Sanmao_SMTP_Cracker_1.75.png)
+![Screenshot](/Saga-WebLang-Sorter-3.png)
 
 <h2>🎬 Demo Video</h2>
 <p>
